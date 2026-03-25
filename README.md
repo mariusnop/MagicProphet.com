@@ -1,43 +1,43 @@
-# MagicProphet – Öffentliches Feedback-Board
+# MagicProphet – Public Feedback Board
 
-Dieses Repository dient als **öffentliches Feedback-Board** für die [MagicProphet](https://magicprophet.com) App – dein Companion für Magic: The Gathering.
+This repository serves as the **public feedback board** for the [MagicProphet](https://magicprophet.com) app – your companion for Magic: The Gathering.
 
-Hier können User **Bug Reports** und **Feature Requests** einreichen, um die App gemeinsam besser zu machen.
-
----
-
-## 📋 Issues einreichen
-
-Du hast einen Bug gefunden oder eine Idee für ein neues Feature? Erstelle einfach ein neues [Issue](../../issues/new/choose)!
-
-> **Hinweis:** Issues werden auch automatisch direkt aus der MagicProphet App erstellt, wenn User das integrierte Feedback-Formular nutzen.
+Users can submit **bug reports** and **feature requests** here to help make the app better together.
 
 ---
 
-## 🏷️ Label-System
+## 📋 Submit an Issue
 
-### Typ-Labels
-| Label | Beschreibung |
+Found a bug or have an idea for a new feature? Simply open a new [Issue](../../issues/new/choose)!
+
+> **Note:** Issues are also created automatically from within the MagicProphet app when users submit feedback via the built-in feedback form.
+
+---
+
+## 🏷️ Label System
+
+### Type Labels
+| Label | Description |
 |-------|-------------|
-| `bug` | Bug Report von einem User |
-| `feature-request` | Feature-Wunsch von einem User |
-| `in-progress` | Wird gerade bearbeitet – triggert ein Status-Update in der App |
+| `bug` | Bug report submitted by a user |
+| `feature-request` | Feature request submitted by a user |
+| `in-progress` | Currently being worked on – triggers a status update in the app |
 
-### Bereichs-Labels
-| Label | Bereich |
-|-------|---------|
-| `area:search` | Kartensuche |
-| `area:scanner` | Karten-Scanner |
-| `area:watchlist` | Merklisten |
-| `area:collection` | Sammlung |
+### Area Labels
+| Label | Area |
+|-------|------|
+| `area:search` | Card Search |
+| `area:scanner` | Card Scanner |
+| `area:watchlist` | Watchlists |
+| `area:collection` | Collection |
 | `area:decks` | Deck Builder |
-| `area:market` | Markt & Preise |
-| `area:profile` | Profil & Einstellungen |
-| `area:other` | Sonstiges |
+| `area:market` | Market & Prices |
+| `area:profile` | Profile & Settings |
+| `area:other` | Other |
 
 ---
 
 ## 🔗 Links
 
 - **App:** [magicprophet.com](https://magicprophet.com)
-- **Alle Issues:** [github.com/mariusnop/MagicProphet.com/issues](../../issues)
+- **All Issues:** [github.com/mariusnop/MagicProphet.com/issues](../../issues)
