@@ -1,43 +1,55 @@
-# MagicProphet – Public Feedback Board
+# MagicProphet — Feedback & Roadmap
 
-This repository serves as the **public feedback board** for the [MagicProphet](https://magicprophet.com) app – your companion for Magic: The Gathering.
+Your companion for Magic: The Gathering. AI-powered card search, price forecasts, collection management, and more.
 
-Users can submit **bug reports** and **feature requests** here to help make the app better together.
-
----
-
-## 📋 Submit an Issue
-
-Found a bug or have an idea for a new feature? Simply open a new [Issue](../../issues/new/choose)!
-
-> **Note:** Issues are also created automatically from within the MagicProphet app when users submit feedback via the built-in feedback form.
+This is where you can **share feedback**, **request features**, and **see what's coming next**.
 
 ---
 
-## 🏷️ Label System
+## Roadmap
 
-### Type Labels
-| Label | Description |
-|-------|-------------|
-| `bug` | Bug report submitted by a user |
-| `feature-request` | Feature request submitted by a user |
-| `in-progress` | Currently being worked on – triggers a status update in the app |
+See what we're working on and what's planned:
 
-### Area Labels
-| Label | Area |
-|-------|------|
-| `area:search` | Card Search |
-| `area:scanner` | Card Scanner |
-| `area:watchlist` | Watchlists |
-| `area:collection` | Collection |
-| `area:decks` | Deck Builder |
-| `area:market` | Market & Prices |
-| `area:profile` | Profile & Settings |
-| `area:other` | Other |
+**[View Roadmap Board](https://github.com/users/mariusnop/projects/8)**
+
+| Status | Meaning |
+|--------|---------|
+| Proposed | Feedback received, under consideration |
+| Planned | Will be implemented |
+| In Progress | Currently being built |
+| Shipping Soon | Coming in the next release |
+| Done | Live in the app |
 
 ---
 
-## 🔗 Links
+## Submit Feedback
+
+Found a bug or have an idea?
+
+**[Create a new issue](../../issues/new/choose)**
+
+You can also submit feedback directly from the MagicProphet app — it will appear here automatically.
+
+---
+
+## Vote on Features
+
+Want to support an existing request? Open the issue and give it a **thumbs up** reaction. The most upvoted issues help us prioritize what to build next.
+
+**[Browse all feature requests](../../issues?q=is%3Aissue+is%3Aopen+label%3Afeature-request+sort%3Areactions-%2B1-desc)**
+
+---
+
+## Status Updates
+
+Every shipped feature gets a comment linking to the release. Watch this repo to get notified when your feedback is addressed.
+
+**[View all releases](../../releases)**
+
+---
+
+## Links
 
 - **App:** [magicprophet.com](https://magicprophet.com)
-- **All Issues:** [github.com/mariusnop/MagicProphet.com/issues](../../issues)
+- **Roadmap:** [Project Board](https://github.com/users/mariusnop/projects/8)
+- **All Issues:** [Browse Issues](../../issues)
