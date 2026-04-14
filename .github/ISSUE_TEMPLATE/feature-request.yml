@@ -1,0 +1,38 @@
+name: "\U0001F4A1 Feature-Wunsch"
+description: Idee fuer eine Verbesserung
+labels: [feature-request]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Was wuenschst du dir?
+      description: Beschreibe deine Idee
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Warum waere das hilfreich?
+    validations:
+      required: false
+  - type: dropdown
+    id: area
+    attributes:
+      label: Bereich
+      options:
+        - Kartensuche
+        - Karten-Scanner
+        - Merklisten
+        - Sammlung
+        - Deck Builder
+        - Markt/Preise
+        - Profil/Einstellungen
+        - Sonstiges
+    validations:
+      required: true
+  - type: textarea
+    id: examples
+    attributes:
+      label: Screenshots/Beispiele (optional)
+    validations:
+      required: false
