@@ -1,23 +1,23 @@
 # Roadmap
 
-> **Last updated:** 2026-04-24 · maintained alongside [GitHub milestones](https://github.com/mariusnop/MagicProphet.com/milestones)
+> **Last updated:** 2026-04-24 · maintained alongside [GitHub milestones](https://github.com/mariusnop/MagicProphet.com/milestones) · versioning follows [SemVer](https://semver.org/)
 
 MagicProphet is an AI-powered Magic: The Gathering platform — smart card search, collection tracking, EDH deck building, price forecasting, and camera-based card scanning. This page reflects what's shipped, what's next, and what's planned.
 
 Everything here links to real GitHub issues and milestones — nothing is aspirational marketing. Feedback shapes this list directly: issues submitted from inside the app land in [this repository](https://github.com/mariusnop/MagicProphet.com/issues) and influence prioritization.
 
-## ✅ Live today
+## ✅ Live in v1.0.0-beta.1 · private beta since 2026-04-14
 
-Already in the current version of MagicProphet:
+Available to invited beta users. Release tag: [`v1.0.0-beta.1`](https://github.com/mariusnop/MagicProphet-v2/releases/tag/v1.0.0-beta.1).
 
 - AI-powered card search — [#2](https://github.com/mariusnop/MagicProphet.com/issues/2)
 - Watchlists with price alerts — [#3](https://github.com/mariusnop/MagicProphet.com/issues/3)
 - Collection management — [#4](https://github.com/mariusnop/MagicProphet.com/issues/4)
 - Price comparison (Cardmarket & TCGplayer) — [#5](https://github.com/mariusnop/MagicProphet.com/issues/5)
 
-## 🚀 v1.0 — Launch · target 2026-05-01 (web + mobile)
+## 🚧 In development — v1.0.0 public launch · target 2026-05-01
 
-First public release on web, iOS App Store, and Google Play.
+Shipping on web, iOS App Store, and Google Play as the first public release.
 
 Milestone: [v1.0 - Launch](https://github.com/mariusnop/MagicProphet.com/milestone/1)
 
@@ -55,6 +55,16 @@ Things we have intentionally chosen **not** to build, so expectations stay groun
 
 If your idea fits one of these and you have a strong case, open an issue anyway and tag it with `feature-request` — we revisit this list periodically.
 
+## 🏷️ Versioning
+
+We follow [Semantic Versioning](https://semver.org/). Current release tags are published on the private code repo:
+
+- `v1.0.0-beta.X` — private beta releases ahead of public launch
+- `v1.0.0` — first public release (web + iOS + Android), target 2026-05-01
+- `v1.Y.Z` — incremental public releases
+
+All shipped feature announcements on this repo reference the version they went live in.
+
 ## 💬 Feedback
 
 Use the in-app feedback button to report a bug or request a feature — it opens an issue here automatically with the right labels. Or open an [issue directly](https://github.com/mariusnop/MagicProphet.com/issues/new/choose).
@@ -64,4 +74,4 @@ Lifecycle labels on this board:
 - `accepted` — confirmed and on the roadmap
 - `in-progress` — actively being worked on
 - `shipping-soon` — in testing, next release
-- (closed) — live in the current version
+- (closed) — live in a specific version (see the comment on each closed issue)
