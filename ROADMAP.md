@@ -23,16 +23,17 @@ Milestone: [v1.0 - Launch](https://github.com/mariusnop/MagicProphet.com/milesto
 
 - Card scanner — snap a photo, instantly identify — [#6](https://github.com/mariusnop/MagicProphet.com/issues/6)
 
-Already-live features (search, watchlists, collection, price comparison) ship in this release with polish and final testing.
+**Finalizing before launch** (tracked on the internal engineering board): final UI polish, search quality decision, mobile build + store submission, production deployment gate (custom domain + image CDN), and end-to-end QA on real devices. Already-live features (search, watchlists, collection, price comparison) ship in this release with polish and final testing.
 
 ## 🔧 v1.1 — Post-launch improvements · target 2026-06-15
 
-Quality work shaped by early-user feedback — mostly search polish.
+Quality work shaped by early-user feedback — search polish, and the long-awaited deck builder.
 
 Milestone: [v1.1 - Post-launch improvements](https://github.com/mariusnop/MagicProphet.com/milestone/2)
 
 - Better search results for complex queries — [#8](https://github.com/mariusnop/MagicProphet.com/issues/8)
 - Similar card suggestions — [#9](https://github.com/mariusnop/MagicProphet.com/issues/9)
+- EDH deck builder — [#10](https://github.com/mariusnop/MagicProphet.com/issues/10)
 
 ## 📦 Backlog
 
@@ -41,7 +42,6 @@ Planned but not scheduled. Moved into a release once prioritized — feedback an
 Milestone: [Backlog](https://github.com/mariusnop/MagicProphet.com/milestone/3)
 
 - Improved price forecast with machine learning — [#7](https://github.com/mariusnop/MagicProphet.com/issues/7)
-- EDH deck builder — [#10](https://github.com/mariusnop/MagicProphet.com/issues/10)
 - Market overview / trending page — [#11](https://github.com/mariusnop/MagicProphet.com/issues/11)
 
 ## 🚫 Out of scope (for now)
