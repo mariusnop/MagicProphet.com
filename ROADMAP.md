@@ -13,17 +13,19 @@ Already in the current version of MagicProphet:
 - Collection management — [#4](https://github.com/mariusnop/MagicProphet.com/issues/4)
 - Price comparison (Cardmarket & TCGplayer) — [#5](https://github.com/mariusnop/MagicProphet.com/issues/5)
 
-## 🚀 v1.0 — Launch · target 2026-05-01
+## 🚀 v1.0 — Launch · target 2026-05-01 (web + mobile)
 
-Public launch. Focus on the remaining headline feature from the MVP cut.
+First public release on web, iOS App Store, and Google Play.
 
 Milestone: [v1.0 - Launch](https://github.com/mariusnop/MagicProphet.com/milestone/1)
 
 - Card scanner — snap a photo, instantly identify — [#6](https://github.com/mariusnop/MagicProphet.com/issues/6)
 
+Already-live features (search, watchlists, collection, price comparison) ship in this release with polish and final testing.
+
 ## 🔧 v1.1 — Post-launch improvements · target 2026-06-15
 
-Quality work, shaped by early-user feedback. Search polish first.
+Quality work shaped by early-user feedback — mostly search polish.
 
 Milestone: [v1.1 - Post-launch improvements](https://github.com/mariusnop/MagicProphet.com/milestone/2)
 
@@ -38,6 +40,7 @@ Milestone: [Backlog](https://github.com/mariusnop/MagicProphet.com/milestone/3)
 
 - Improved price forecast with machine learning — [#7](https://github.com/mariusnop/MagicProphet.com/issues/7)
 - EDH deck builder — [#10](https://github.com/mariusnop/MagicProphet.com/issues/10)
+- Market overview / trending page — [#11](https://github.com/mariusnop/MagicProphet.com/issues/11)
 
 ## 💬 Feedback
 
