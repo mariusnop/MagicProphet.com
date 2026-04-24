@@ -1,8 +1,10 @@
 # Roadmap
 
+> **Last updated:** 2026-04-24 · maintained alongside [GitHub milestones](https://github.com/mariusnop/MagicProphet.com/milestones)
+
 MagicProphet is an AI-powered Magic: The Gathering platform — smart card search, collection tracking, EDH deck building, price forecasting, and camera-based card scanning. This page reflects what's shipped, what's next, and what's planned.
 
-Everything here links to real GitHub issues and milestones — nothing is aspirational marketing. Feedback shapes this list directly: issues submitted from inside the app land in [this repository](https://github.com/mariusnop/MagicProphet.com/issues).
+Everything here links to real GitHub issues and milestones — nothing is aspirational marketing. Feedback shapes this list directly: issues submitted from inside the app land in [this repository](https://github.com/mariusnop/MagicProphet.com/issues) and influence prioritization.
 
 ## ✅ Live today
 
@@ -42,17 +44,24 @@ Milestone: [Backlog](https://github.com/mariusnop/MagicProphet.com/milestone/3)
 - EDH deck builder — [#10](https://github.com/mariusnop/MagicProphet.com/issues/10)
 - Market overview / trending page — [#11](https://github.com/mariusnop/MagicProphet.com/issues/11)
 
+## 🚫 Out of scope (for now)
+
+Things we have intentionally chosen **not** to build, so expectations stay grounded:
+
+- Trading or marketplace transactions — MagicProphet helps you find and price cards, but never handles purchases. Buy on Cardmarket or TCGplayer; we link you there.
+- Tournament organizer / pairings tooling — outside our focus on collectors and deck builders.
+- Card grading or authentication — we don't replace PSA / BGS workflows.
+- Social features (forums, friend feeds, comments) — not planned for the first year.
+
+If your idea fits one of these and you have a strong case, open an issue anyway and tag it with `feature-request` — we revisit this list periodically.
+
 ## 💬 Feedback
 
 Use the in-app feedback button to report a bug or request a feature — it opens an issue here automatically with the right labels. Or open an [issue directly](https://github.com/mariusnop/MagicProphet.com/issues/new/choose).
 
-Labels that track lifecycle on this board:
+Lifecycle labels on this board:
 
 - `accepted` — confirmed and on the roadmap
 - `in-progress` — actively being worked on
 - `shipping-soon` — in testing, next release
 - (closed) — live in the current version
-
----
-
-_Last updated: 2026-04-24. This file is maintained alongside GitHub milestones — when an issue moves milestone, this page is updated in the next roadmap pass._
