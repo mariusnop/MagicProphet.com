@@ -1,38 +1,38 @@
-name: "\U0001F4A1 Feature-Wunsch"
-description: Idee fuer eine Verbesserung
+name: "💡 Feature request"
+description: Idea for an improvement
 labels: [feature-request]
 body:
   - type: textarea
     id: description
     attributes:
-      label: Was wuenschst du dir?
-      description: Beschreibe deine Idee
+      label: What would you like to see?
+      description: Describe your idea
     validations:
       required: true
   - type: textarea
     id: why
     attributes:
-      label: Warum waere das hilfreich?
+      label: Why would this be helpful?
     validations:
       required: false
   - type: dropdown
     id: area
     attributes:
-      label: Bereich
+      label: Area
       options:
-        - Kartensuche
-        - Karten-Scanner
-        - Merklisten
-        - Sammlung
-        - Deck Builder
-        - Markt/Preise
-        - Profil/Einstellungen
-        - Sonstiges
+        - Card search
+        - Card scanner
+        - Watchlists
+        - Collection
+        - Deck builder
+        - Market & prices
+        - Profile & settings
+        - Other
     validations:
       required: true
   - type: textarea
     id: examples
     attributes:
-      label: Screenshots/Beispiele (optional)
+      label: Screenshots / examples (optional)
     validations:
       required: false
