@@ -1,6 +1,6 @@
 # Roadmap
 
-> **Last updated:** 2026-09-24 · maintained alongside [GitHub milestones](https://github.com/mariusnop/MagicProphet.com/milestones) · versioning follows [SemVer](https://semver.org/)
+> **Last updated:** 2026-10-02 · maintained alongside [GitHub milestones](https://github.com/mariusnop/MagicProphet.com/milestones) · versioning follows [SemVer](https://semver.org/)
 
 MagicProphet is an AI-powered Magic: The Gathering companion: card search in plain language, collection tracking, price forecasts, camera card scanning, and combo discovery for brand-new sets. This page reflects what's live and what's planned.
 
